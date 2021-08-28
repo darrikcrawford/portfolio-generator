@@ -16,5 +16,10 @@ const generatePage = (name, github) => {
     </html>
     `;
   };
+<<<<<<< HEAD
 
   module.exports = generatePage;
+=======
+  
+module.exports = generatePage;
+>>>>>>> feature/capture-input
